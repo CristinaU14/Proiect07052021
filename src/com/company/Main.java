@@ -16,6 +16,7 @@ public class Main {
         //Methods
         Exercices.GetLargestNumberFromGivenList(listOne);
         Exercices.CalcultateQuadricEquation(a,b,c);
+        Exercices.FindMissingNumberFromList();
 
     }
 }
